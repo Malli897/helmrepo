@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  arjun:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-05-08T06:21:32.709090295Z"
+    description: A Helm chart for Kubernetes
+    digest: bdd2f230eb486fb8875eaa60ba449a4c07bf922a4f309873fa7cd890d7b06948
+    name: arjun
+    type: application
+    urls:
+    - arjun-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-08T06:21:32.708455872Z"
